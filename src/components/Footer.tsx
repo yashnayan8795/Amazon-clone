@@ -9,7 +9,7 @@ const Footer =() =>{
         <p className="text-sm -mt-4">
             All rights reserved {" "}
             <a className="hover:text-white hoverunderline decoration-[1px]
-            cursor-pointer duration-250" href="https://govardhan-portfolio.vercel.app/" target="_blank">
+            cursor-pointer duration-250" href="https://github.com/yashnayan8795" target="_blank">
             @Yash_Nayan</a></p>
     </div>
     );
